@@ -4,11 +4,9 @@ A machine learning project that predicts medical insurance costs based on a pers
 
 ---
 
-## What's this about?
+## What this about?
 
 Insurance companies charge different amounts based on a bunch of personal factors. I wanted to see if I could build a model that predicts those charges reasonably well — and understand *which* factors matter most.
-
-Spoiler: smoking is a really big deal.
 
 ---
 
